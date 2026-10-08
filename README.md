@@ -1,2 +1,2 @@
 # BSPL-Website
-Oficjal Poland BS website!
+Officjal Poland BS website!
